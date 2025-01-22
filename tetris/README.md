@@ -30,11 +30,7 @@
 
 <hr/>
 
-# Project 3 - Partitioning Pattern in GSD 
 
-<p align="center">
-<img src="demo/CoverBanner.png" width="600">
-</p>
 
 <hr/>
 
