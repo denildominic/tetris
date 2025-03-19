@@ -1,0 +1,3 @@
+# Tetris Game - README  
+
+This project is a **Tetris game** implemented in Python using the **Pygame** library. The game follows classic Tetris mechanics, where players manipulate falling tetrominoes to form and clear complete rows. The code handles **piece rotation, collision detection, score tracking, and increasing difficulty** as the game progresses. The user can control the blocks using keyboard inputs (left, right, down, and rotate). The game runs in a graphical window with a grid-based board and dynamic visuals. To play, install Pygame (`pip install pygame`), then run `python tetris.py`. Enjoy the challenge of stacking blocks efficiently and achieving a high score! 🚀🎮
